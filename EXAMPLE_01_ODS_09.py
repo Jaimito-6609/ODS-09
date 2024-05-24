@@ -7,6 +7,21 @@ Created on Wed May 15 19:23:22 2024
 #==============================================================================
 # EXAMPLE 1 ODS 09
 #==============================================================================
+"""
+Adjogble, Warschat and Hemmje (2023) developed a smart manufacturing model for
+the process industry, integrating industrial AI and optimization systems. This 
+model seeks to improve performance and profitability through cost modeling, 
+optimized production planning, predictive maintenance, and autonomous systems. 
+It includes human-machine collaboration, dynamic modeling, 5G communication, 
+digital twins and computer vision technology, encouraging more sustainable 
+production.
+
+F. K. Adjogble, J. Warschat and M. Hemmje, "Advanced Intelligent Manufacturing 
+in Process Industry Using Industrial Artificial Intelligence," 2023 Portland 
+International Conference on Management of Engineering and Technology (PICMET), 
+Monterrey, Mexico, 2023, pp. 1-16, doi: 10.23919/PICMET59654.2023.10216797.
+
+"""
 
 import numpy as np
 import pandas as pd
