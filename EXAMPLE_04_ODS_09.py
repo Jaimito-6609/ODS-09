@@ -14,10 +14,11 @@ manufacturing production. They maintain that designing circular products,
 supported by academic guides and strategies and using AI for data analysis and 
 real-time optimization, increases productivity. Their study, based on a 
 qualitative methodology, proposes a framework for the essential role of AI in 
-this design, highlighting its positive impact. Ghoreishi, M., & Happonen, A. 
-(2020). Key enablers for deploying artificial intelligence for circular 
-economy embracing sustainable product design: Three case studies. AIP 
-Conference Proceedings. https://doi.org/10.1063/5.0001339.
+this design, highlighting its positive impact. 
+
+Ghoreishi, M., & Happonen, A. (2020). Key enablers for deploying artificial 
+intelligence for circular economy embracing sustainable product design: Three 
+case studies. AIP Conference Proceedings. https://doi.org/10.1063/5.0001339.
 
 This Python code integrates an evolutionary algorithm with a combination of 
 PCA, K-Means clustering, and a neural network to optimize sustainable product 
