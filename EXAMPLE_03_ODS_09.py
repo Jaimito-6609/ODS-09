@@ -13,6 +13,7 @@ optimization improve smart manufacturing, highlighting advances in energy
 efficiency and sustainability. They analyze innovations and challenges in the 
 integration of renewable energy, 5G/B5G technologies and the development of 
 future manufacturing systems, providing guidelines for additional research. 
+
 Hsu C-C, Jiang B-H, Lin C-C. A Survey on Recent Applications of Artificial 
 Intelligence and Optimization for Smart Grids in Smart Manufacturing. Energies. 
 2023; 16(22):7660. https://doi.org/10.3390/en16227660.
