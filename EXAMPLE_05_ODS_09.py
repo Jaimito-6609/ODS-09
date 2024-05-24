@@ -17,6 +17,10 @@ emphasizes the growing importance of these methodologies, evidenced by an
 increase in publications and citations, and their transformative impact on 
 advanced manufacturing.
 
+Lee M-FR. A Review on Intelligent Control Theory and Applications in Process 
+Optimization and Smart Manufacturing. Processes. 2023; 11(11):3171. 
+https://doi.org/10.3390/pr11113171.
+
 This Python code integrates fuzzy logic, neural networks, and genetic 
 algorithms to optimize smart manufacturing processes. The evolutionary 
 algorithm, implemented using the DEAP library, optimizes the hyperparameters 
